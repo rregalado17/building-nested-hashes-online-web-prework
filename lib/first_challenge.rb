@@ -3,7 +3,7 @@ def first_challenge
      :montague => {
        
      },
-     :capaulet => {
+     :capalet => {
        
      }
        }
