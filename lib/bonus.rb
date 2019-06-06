@@ -24,7 +24,8 @@ def bonus
 
   epic_tradegy[:montague][:hero]{:status] = "dead"
   epic_tradegy[:montague][:heroine]{:status] = "dead"
-  
+
+puts epic_tradegy  
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
