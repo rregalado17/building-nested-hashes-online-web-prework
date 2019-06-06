@@ -21,7 +21,7 @@ def third_challenge
           :age => "18",
           :attitude => "hot-head"
         }
-      }]
+      ]
    }, 
    :capulet => {
       :patriarch => {
