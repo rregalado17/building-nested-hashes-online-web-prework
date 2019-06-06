@@ -8,7 +8,7 @@ def third_challenge
         name: "Lady Mantague", age: "54"
         },
       :hero => {
-        name: "Romeo", age: "15"
+        name: "Romeo", age: "15", status: "alive"
         },
       :hero_friends => [
         {
@@ -31,7 +31,7 @@ def third_challenge
         name: "Lady Capulet", age: "51"
         },
       :heroine => {
-        name: "Juliet", age: "15"
+        name: "Juliet", age: "15", statue: "alive"
         },
       :heroine_friends => [
         {
